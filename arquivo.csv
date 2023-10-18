@@ -1,6 +1,6 @@
- ID ; Data ; Paciente ; Diagnóstico ; Tratamento ; Resultado 
- 1 ; 2023-07-20 ; João da Silva ; Dor lombar ; Alongamento, fortalecimento muscular e reeducação postural ; Redução da dor em 50% 
- 2 ; 2023-08-03 ; Maria Souza ; Artrose no joelho ; Exercícios aeróbicos, fortalecimento muscular e terapia manual ; Melhora da amplitude de movimento em 20% 
- 3 ; 2023-09-07 ; Pedro Santos ; Entorse no tornozelo ; Imobilização, gelo, compressão e elevação ; Retorno às atividades diárias em 10 dias 
- 4 ; 2023-10-11 ; Ana Lima ; Fibromialgia ; Terapia cognitivo-comportamental, exercícios terapêuticos e relaxamento ; Redução da dor em 30% e melhora do sono 
- 5 ; 2023-11-15 ; Carlos Pereira ; AVC ; Reabilitação motora, cognitiva e funcional ; Melhora da marcha e da fala 
+ID ; Data ; Paciente ; Diagnóstico ; Tratamento ; Resultado 
+1 ; 2023-07-20 ; João da Silva ; Dor lombar ; Alongamento, fortalecimento muscular e reeducação postural ; Redução da dor em 50% 
+2 ; 2023-08-03 ; Maria Souza ; Artrose no joelho ; Exercícios aeróbicos, fortalecimento muscular e terapia manual ; Melhora da amplitude de movimento em 20% 
+3 ; 2023-09-07 ; Pedro Santos ; Entorse no tornozelo ; Imobilização, gelo, compressão e elevação ; Retorno às atividades diárias em 10 dias 
+4 ; 2023-10-11 ; Ana Lima ; Fibromialgia ; Terapia cognitivo-comportamental, exercícios terapêuticos e relaxamento ; Redução da dor em 30% e melhora do sono 
+5 ; 2023-11-15 ; Carlos Pereira ; AVC ; Reabilitação motora, cognitiva e funcional ; Melhora da marcha e da fala 
