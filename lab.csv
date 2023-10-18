@@ -1,0 +1,41 @@
+ID ; Data ; Paciente ; Diagnóstico ; Tratamento ; Resultado ; Nome técnico do tratamento 
+1 ; 2023-07-20 ; João da Silva ; Dor lombar ; Alongamento, fortalecimento muscular e reeducação postural ; Redução da dor em 50% ; Terapia manual, exercícios de fortalecimento e alongamento 
+2 ; 2023-08-03 ; Maria Souza ; Artrose no joelho ; Exercícios aeróbicos, fortalecimento muscular e terapia manual ; Melhora da amplitude de movimento em 20% ; Exercícios de fortalecimento e alongamento 
+3 ; 2023-09-07 ; Pedro Santos ; Entorse no tornozelo ; Imobilização, gelo, compressão e elevação ; Retorno às atividades diárias em 10 dias ; Imobilização 
+4 ; 2023-10-11 ; Ana Lima ; Fibromialgia ; Terapia cognitivo-comportamental, exercícios terapêuticos e relaxamento ; Redução da dor em 30% e melhora do sono ; Terapia cognitivo-comportamental 
+5 ; 2023-11-15 ; Carlos Pereira ; AVC ; Reabilitação motora, cognitiva e funcional ; Melhora da marcha e da fala ; Reabilitação motora 
+6 ; 2023-07-21 ; Maria da Silva ; Dor no ombro ; Alongamento, fortalecimento muscular e terapia manual ; Redução da dor em 75% ; Terapia manual, exercícios de fortalecimento e alongamento 
+7 ; 2023-08-04 ; José Souza ; Tendinite no cotovelo ; Exercícios de fortalecimento e alongamento ; Redução da dor em 90% ; Exercícios de fortalecimento e alongamento 
+8 ; 2023-09-08 ; Ana Santos ; Dor no quadril ; Exercícios de fortalecimento e alongamento ; Melhora da amplitude de movimento em 30% ; Exercícios de fortalecimento e alongamento 
+9 ; 2023-10-12 ; Carlos Lima ; Artrite no punho ; Terapia manual e exercícios de fortalecimento ; Melhora da dor e da função ; Terapia manual 
+10 ; 2023-11-16 ; Pedro Pereira ; Fratura no braço ; Imobilização, fisioterapia e exercícios de fortalecimento ; Retorno às atividades diárias em 15 dias ; Imobilização e fisioterapia 
+11 ; 2023-07-22 ; Joana da Silva ; Lesão no tornozelo ; Imobilização, gelo e fisioterapia ; Recuperação da mobilidade em 12 dias ; Imobilização e fisioterapia 
+12 ; 2023-08-05 ; Marcos Souza ; Dor nas costas ; Terapia manual e exercícios de fortalecimento ; Redução da dor em 40% ; Terapia manual 
+13 ; 2023-09-09 ; Carla Santos ; Fratura na perna ; Imobilização e fisioterapia ; Retorno às atividades diárias em 20 dias ; Imobilização e fisioterapia 
+14 ; 2023-10-13 ; Catarina Lima ; Escoliose ; Exercícios de fortalecimento e alongamento ; Melhora da postura e alívio da dor ; Exercícios de fortalecimento e alongamento 
+15 ; 2023-11-17 ; Felipe Pereira ; Lesão no ombro ; Terapia manual e exercícios de fortalecimento ; Recuperação da amplitude de movimento em 25% ; Terapia manual 
+16 ; 2023-07-23 ; Isabela da Silva ; Dor no pescoço ; Alongamento, fortalecimento muscular e terapia manual ; Redução da dor em 60% ; Terapia manual, exercícios de fortalecimento e alongamento 
+17 ; 2023-08-06 ; Geraldo Souza ; Tendinite no joelho ; Exercícios de fortalecimento e alongamento ; Redução da dor em 85% ; Exercícios de fortalecimento e alongamento 
+18 ; 2023-09-10 ; Luciana Santos ; Dor no quadril ; Exercícios de fortalecimento e alongamento ; Melhora da amplitude de movimento em 35% ; Exercícios de fortalecimento e alongamento 
+19 ; 2023-10-14 ; Mariana Lima ; Artrite no joelho ; Terapia manual e exercícios de fortalecimento ; Melhora da dor e da função ; Terapia manual 
+20 ; 2023-11-18 ; Rui Pereira ; Fratura no tornozelo ; Imobilização, fisioterapia e exercícios de fortalecimento ; Retorno às atividades diárias em 18 dias ; Imobilização e fisioterapia 
+21 ; 2023-07-24 ; Andreia da Silva ; Lesão no joelho ; Imobilização, gelo e fisioterapia ; Recuperação da mobilidade em 14 dias ; Imobilização e fisioterapia 
+22 ; 2023-08-07 ; Felipe Souza ; Dor nas costas ; Terapia manual e exercícios de fortalecimento ; Redução da dor em 45% ; Terapia manual 
+23 ; 2023-09-11 ; Vanessa Santos ; Fratura na perna ; Imobilização e fisioterapia ; Retorno às atividades diárias em 22 dias ; Imobilização e fisioterapia 
+24 ; 2023-10-15 ; Rafael Lima ; Escoliose ; Exercícios de fortalecimento e alongamento ; Melhora da postura e alívio da dor ; Exercícios de fortalecimento e alongamento 
+25 ; 2023-11-19 ; Tânia Pereira ; Lesão no ombro ; Terapia manual e exercícios de fortalecimento ; Recuperação da amplitude de movimento em 30% ; Terapia manual 
+26 ; 2023-07-25 ; Ricardo da Silva ; Dor no pescoço ; Alongamento, fortalecimento muscular e terapia manual ; Redução da dor em 70% ; Terapia manual, exercícios de fortalecimento e alongamento 
+27 ; 2023-08-08 ; Beatriz Souza ; Tendinite no joelho ; Exercícios de fortalecimento e alongamento ; Redução da dor em 95% ; Exercícios de fortalecimento e alongamento 
+28 ; 2023-09-12 ; Alberto Santos ; Dor no quadril ; Exercícios de fortalecimento e alongamento ; Melhora da amplitude de movimento em 40% ; Exercícios de fortalecimento e alongamento 
+29 ; 2023-10-16 ; Camila Lima ; Artrite no joelho ; Terapia manual e exercícios de fortalecimento ; Melhora da dor e da função ; Terapia manual 
+30 ; 2023-11-20 ; Paulo Pereira ; Fratura no tornozelo ; Imobilização, fisioterapia e exercícios de fortalecimento ; Retorno às atividades diárias em 25 dias ; Imobilização e fisioterapia 
+31 ; 2023-07-26 ; Júlio da Silva ; Lesão no joelho ; Imobilização, gelo e fisioterapia ; Recuperação da mobilidade em 16 dias ; Imobilização e fisioterapia 
+32 ; 2023-08-09 ; Silvana Souza ; Dor nas costas ; Terapia manual e exercícios de fortalecimento ; Redução da dor em 50% ; Terapia manual 
+33 ; 2023-09-13 ; André Santos ; Fratura na perna ; Imobilização e fisioterapia ; Retorno às atividades diárias em 24 dias ; Imobilização e fisioterapia 
+34 ; 2023-10-17 ; Renata Lima ; Escoliose ; Exercícios de fortalecimento e alongamento ; Melhora da postura e alívio da dor ; Exercícios de fortalecimento e alongamento 
+35 ; 2023-11-21 ; Gustavo Pereira ; Lesão no ombro ; Terapia manual e exercícios de fortalecimento ; Recuperação da amplitude de movimento em 35% ; Terapia manual 
+36 ; 2023-07-27 ; Patricia da Silva ; Dor no pescoço ; Alongamento, fortalecimento muscular e terapia manual ; Redução da dor em 75% ; Terapia manual, exercícios de fortalecimento e alongamento 
+37 ; 2023-08-10 ; Maurício Souza ; Tendinite no joelho ; Exercícios de fortalecimento e alongamento ; Redução da dor em 98% ; Exercícios de fortalecimento e alongamento 
+38 ; 2023-09-14 ; Lorena Santos ; Dor no quadril ; Exercícios de fortalecimento e alongamento ; Melhora da amplitude de movimento em 45% ; Exercícios de fortalecimento e alongamento 
+39 ; 2023-10-18 ; Rafaela Lima ; Artrite no joelho ; Terapia manual e exercícios de fortalecimento ; Melhora da dor e da função ; Terapia manual 
+40 ; 2023-11-22 ; Artur Pereira ; Fratura no tornozelo ; Imobilização, fisioterapia e exercícios de fortalecimento ; Retorno às atividades diárias em 30 dias ; Imobilização e fisioterapia 
