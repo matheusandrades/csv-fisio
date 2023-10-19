@@ -1,0 +1,21 @@
+ID;Data;Paciente;Diagnóstico;Tratamento;Resultado;Nome técnico do tratamento;Estagiário;Orientador;Número do CREFITO do Orientador;Número de Matrícula do Aluno
+1;2023-07-20;João da Silva;Dor lombar;Alongamento, fortalecimento muscular e reeducação postural;Redução da dor em 50%;Terapia manual, exercícios de fortalecimento e alongamento;Ana;Dr. Pereira;12345;A001
+2;2023-08-03;Maria Souza;Artrose no joelho;Exercícios aeróbicos, fortalecimento muscular e terapia manual;Melhora da amplitude de movimento em 20%;Exercícios de fortalecimento e alongamento;Pedro;Dr. Santos;67890;A002
+3;2023-09-07;Pedro Santos;Entorse no tornozelo;Imobilização, gelo, compressão e elevação;Retorno às atividades diárias em 10 dias;Imobilização;Júlia;Dr. Silva;54321;A003
+4;2023-10-11;Ana Lima;Fibromialgia;Terapia cognitivo-comportamental, exercícios terapêuticos e relaxamento;Redução da dor em 30% e melhora do sono;Terapia cognitivo-comportamental;Tiago;Dr. Rodrigues;98765;A004
+5;2023-11-15;Carlos Pereira;AVC;Reabilitação motora, cognitiva e funcional;Melhora da marcha e da fala;Reabilitação motora;Rafael;Dr. Almeida;23456;A005
+6;2023-07-21;Maria da Silva;Dor no ombro;Alongamento, fortalecimento muscular e terapia manual;Redução da dor em 75%;Terapia manual, exercícios de fortalecimento e alongamento;Mariana;Dr. Pereira;34567;A006
+7;2023-08-04;José Souza;Tendinite no cotovelo;Exercícios de fortalecimento e alongamento;Redução da dor em 90%;Exercícios de fortalecimento e alongamento;Lucas;Dr. Santos;65432;A007
+8;2023-09-08;Ana Santos;Dor no quadril;Exercícios de fortalecimento e alongamento;Melhora da amplitude de movimento em 30%;Exercícios de fortalecimento e alongamento;Isabela;Dr. Silva;12345;A008
+9;2023-10-12;Carlos Lima;Artrite no punho;Terapia manual e exercícios de fortalecimento;Melhora da dor e da função;Terapia manual;Pedro;Dr. Rodrigues;67890;A009
+10;2023-11-16;Pedro Pereira;Fratura no braço;Imobilização, fisioterapia e exercícios de fortalecimento;Retorno às atividades diárias em 15 dias;Imobilização e fisioterapia;Tiago;Dr. Almeida;54321;A010
+11;2023-07-22;Joana da Silva;Lesão no tornozelo;Imobilização, gelo e fisioterapia;Recuperação da mobilidade em 12 dias;Imobilização e fisioterapia;Rafael;Dr. Pereira;98765;A011
+12;2023-08-05;Marcos Souza;Dor nas costas;Terapia manual e exercícios de fortalecimento;Redução da dor em 40%;Terapia manual;Ana;Dr. Pereira;23456;A012
+13;2023-09-09;Carla Santos;Fratura na perna;Imobilização e fisioterapia;Retorno às atividades diárias em 20 dias;Imobilização e fisioterapia;Pedro;Dr. Santos;34567;A013
+14;2023-10-13;Catarina Lima;Escoliose;Exercícios de fortalecimento e alongamento;Melhora da postura e alívio da dor;Exercícios de fortalecimento e alongamento;Júlia;Dr. Silva;65432;A014
+15;2023-11-17;Felipe Pereira;Lesão no ombro;Terapia manual e exercícios de fortalecimento;Recuperação da amplitude de movimento em 25%;Terapia manual;Tiago;Dr. Rodrigues;12345;A015
+16;2023-07-23;Isabela da Silva;Dor no pescoço;Alongamento, fortalecimento muscular e terapia manual;Redução da dor em 60%;Terapia manual, exercícios de fortalecimento e alongamento;Lucas;Dr. Almeida;67890;A016
+17;2023-08-06;Geraldo Souza;Tendinite no joelho;Exercícios de fortalecimento e alongamento;Redução da dor em 85%;Exercícios de fortalecimento e alongamento;Rafael;Dr. Pereira;54321;A017
+18;2023-09-10;Luciana Santos;Dor no quadril;Exercícios de fortalecimento e alongamento;Melhora da amplitude de movimento em 35%;Exercícios de fortalecimento e alongamento;Mariana;Dr. Santos;98765;A018
+19;2023-10-14;Mariana Lima;Artrite no joelho;Terapia manual e exercícios de fortalecimento;Melhora da dor e da função;Terapia manual;Isabela;Dr. Silva;23456;A019
+20;2023-11-18;Rui Pereira;Fratura no tornozelo;Imobilização, fisioterapia e exercícios de fortalecimento;Retorno às atividades diárias em 18 dias;Imobilização e fisioterapia;Pedro;Dr. Rodrigues;34567;A020
